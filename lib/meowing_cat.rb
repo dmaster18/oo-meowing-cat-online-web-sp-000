@@ -7,3 +7,4 @@ class Cat
 end
 
 garfield = Cat.new
+garfield.name = "Garfield"
