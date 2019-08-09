@@ -9,3 +9,4 @@ end
 garfield = Cat.new
 garfield.name = "Garfield"
 puts garfield.name
+puts garfield.meow
