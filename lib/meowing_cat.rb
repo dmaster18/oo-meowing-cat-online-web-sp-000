@@ -8,4 +8,4 @@ end
 
 garfield = Cat.new
 garfield.name = "Garfield"
-puts
+puts garfield.name
